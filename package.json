@@ -1,0 +1,16 @@
+{
+  "name": "copy-json-path",
+  "main": "./lib/copy-json-path",
+  "version": "0.0.0",
+  "description": "Copy the path of a JSON key from its cursor position",
+  "activationCommands": {
+    "atom-workspace": "copy-json-path:run"
+  },
+  "repository": "https://github.com/toruticas/copy-json-path",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

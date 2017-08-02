@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy JSON Path",
+        "command": "copy-json-path:run"
+      }
+    ]
+  }
+}
